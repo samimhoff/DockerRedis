@@ -1,0 +1,22 @@
+{
+  "name": "dockerredis",
+  "version": "1.0.0",
+  "description": "Project to work on Redis and Docker concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samimhoff/DockerRedis.git"
+  },
+  "author": "Sam Imhoff",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samimhoff/DockerRedis/issues"
+  },
+  "homepage": "https://github.com/samimhoff/DockerRedis#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
